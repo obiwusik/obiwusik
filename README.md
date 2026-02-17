@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web app, Data Science, Machine Learning 
 - 🌱 I’m currently working with Department of Information Technology , Osun State University, Osogbo, Nigeria
 - 💞️ I’m looking to collaborate on Data Science, Web app and Machine Learning
-- 📫 You can reach me on 07036461736 ; obiwusik@gmail.com or kolawole.obiwusi@uniosun.edu.ng 
+- 📫 You can reach me on +234 703 646 1736 ; obiwusik@gmail.com or kolawole.obiwusi@uniosun.edu.ng 
 
 <!---
 obiwusik/obiwusik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
