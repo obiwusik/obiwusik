@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obiwusik
 - 👀 I’m interested in Web app, Data Science, Machine Learning 
-- 🌱 I’m currently working with Department of Mathematics and Computer Science, College of Natural and Applied Sciences, Summit University Offa
+- 🌱 I’m currently working with Department of Information Technology , Osun State University, Osogbo, Nigeria
 - 💞️ I’m looking to collaborate on Data Science, Web app and Machine Learning
 - 📫 You can reach me on 07036461736 ; obiwusik@gmail.com or kolawole.obiwusi@uniosun.edu.ng 
 
